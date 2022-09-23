@@ -1,9 +1,10 @@
 # Adobe anuncia el final de Flash Player
 + ¿Que era flash Player?
 
-Era como una especie de reproductor multimedia, que es capaz de reproducir juegos, vídeos o cualquier cosa intreactiva en la web
+Era como un reproductor multimedia, lanzado el 1 de enero de 1996, era capaz de reproducir juegos, vídeos o cualquier cosa intreactiva en las web que lo permitían.
 
 ![Instalador](https://github.com/JuanCarlosIzquierdo/SMX2-M8UF1A1-HistoriaWeb-2017-FinDeFlash-JuanCarlos/blob/main/Instalador%20de%20flash%20player.jpg)
+Instalador de Flash Player
 
 + ¿Por que finalizó?
 
